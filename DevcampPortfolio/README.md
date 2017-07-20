@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  Devcamp Portfolio Application
 
  > This is a Ruby on Rails 5 Application that allows users to create their own portfolios
@@ -21,7 +20,6 @@ end
 ```javascript
 alert('Hi there')
 ``` 
-=======
 ![logo](https://s3.amazonaws.com/bottega-devcamp/bottega-devcamp.png)
 
 ## Hi there! Welcome to Bottega Devcamp
@@ -62,4 +60,3 @@ For more information on how to use Cloud9, visit http://docs.c9.io for our docum
 http://www.youtube.com/user/c9ide.
 
 Good luck with the coding!
->>>>>>> e7e0cffbce95ad63d1af2d00bc337629009f7c1b
