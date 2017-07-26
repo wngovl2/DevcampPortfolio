@@ -14,4 +14,14 @@ Rails.application.routes.draw do
   end
   
   root to: 'pages#home'
+
+!#$%$%^%&#$@#!@#@$#%$^$&$%^&^*^*$^&^%^@%$&%#%^@$^%&^$^@$^$^%#
+!#$%$%^%&#$@#!@#@$#%$^$&$%^&^*^*$^&^%^@%$&%#%^@$^%&^$^@$^$^%#
+!#$%$%^%&#$@#!@#@$#%$^$&$%^&^*^*$^&^%^@%$&%#%^@$^%&^$^@$^$^%#
+
+  Rails.application.routes.draw do
+  resources :blogs
+  get 'guides/book'
+end
+  
 end
